@@ -9,12 +9,17 @@ Este es un proyecto personal donde compartiré mis diseños y códigos en una pl
 - **Diseños visuales**: Subiré mis diseños más recientes, desde interfaces de usuario hasta soluciones gráficas innovadoras.
 - **Códigos listos para usar**: Encontrarás fragmentos de código funcionales y completos, listos para ser explorados, adaptados y reutilizados en tus propios proyectos.
 - **Enlaces a GitHub**: Cada diseño y código estará acompañado de un enlace directo al repositorio correspondiente para que puedas ver el proyecto completo.
-- **Contenido multimedia**: ¡Sígueme en mis redes sociales para tutoriales en formato de video! También estaré publicando reels, videos y contenido sobre mis proyectos en:
-  - [YouTube](https://www.youtube.com/channel/tu-canal)
-  - [Instagram](https://www.instagram.com/tu-usuario)
-  - [TikTok](https://www.tiktok.com/@tu-usuario)
-  - [Twitter](https://www.twitter.com/tu-usuario)
-  - [Facebook](https://www.facebook.com/tu-pagina)
+- **Contenido multimedia**: ¡Sígueme en mis redes sociales para tutoriales en formato de video! También estaré publicando reels, videos y contenido sobre mis proyectos en las siguientes plataformas:
+
+<div align="center">
+
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/tu-canal)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tu-usuario)
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@tu-usuario)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/tu-usuario)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/tu-pagina)
+
+</div>
 
 ## Tecnologías utilizadas
 
@@ -36,7 +41,6 @@ Si deseas ejecutar el proyecto en tu entorno local, sigue estos pasos:
 1. Clona el repositorio:
    ```bash
    git clone https://github.com/Blueprint-Codeworks/Repositorio.git
-
 📬 **Contacto:**
 
 Si tienes alguna consulta o quieres colaborar, puedes contactarme a través de mis redes o enviar un correo a [codeblueprintsmail@gmail.com](mailto:codeblueprintsmail@gmail.com).
