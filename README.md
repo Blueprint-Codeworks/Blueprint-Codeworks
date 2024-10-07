@@ -37,5 +37,12 @@ Si deseas ejecutar el proyecto en tu entorno local, sigue estos pasos:
    ```bash
    git clone https://github.com/Blueprint-Codeworks/Repositorio.git
 
-📬 Contacto:
-Si tienes alguna consulta o quieres colaborar, puedes contactarme por LinkedIn o enviar un correo a codeblueprintsmail@gmail.com.
+📬 **Contacto:**
+
+Si tienes alguna consulta o quieres colaborar, puedes contactarme a través de [LinkedIn](https://www.linkedin.com/in/lautaro-ocatavio-faure/) o enviar un correo a [codeblueprintsmail@gmail.com](mailto:codeblueprintsmail@gmail.com).
+
+<div align="center">
+
+[![Gmail link](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:codeblueprintsmail@gmail.com)
+
+</div>
