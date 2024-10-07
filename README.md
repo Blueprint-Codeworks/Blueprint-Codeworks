@@ -39,7 +39,7 @@ Si deseas ejecutar el proyecto en tu entorno local, sigue estos pasos:
 
 📬 **Contacto:**
 
-Si tienes alguna consulta o quieres colaborar, puedes contactarme a través de [LinkedIn](https://www.linkedin.com/in/lautaro-ocatavio-faure/) o enviar un correo a [codeblueprintsmail@gmail.com](mailto:codeblueprintsmail@gmail.com).
+Si tienes alguna consulta o quieres colaborar, puedes contactarme a través de mis redes o enviar un correo a [codeblueprintsmail@gmail.com](mailto:codeblueprintsmail@gmail.com).
 
 <div align="center">
 
