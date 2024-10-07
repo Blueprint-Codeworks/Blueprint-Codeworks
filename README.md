@@ -87,5 +87,28 @@ Si deseas ejecutar el proyecto en tu entorno local, sigue estos pasos:
    ```bash
    git clone https://github.com/Blueprint-Codeworks/Repositorio.git
 
+<!-- GitHub Stats -->
+<h2 align="center">📊 GitHub Stats</h2>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Blueprint-Codeworks&show_icons=true&theme=radical" alt="GitHub Stats">
+</p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Blueprint-Codeworks&theme=radical" alt="GitHub Streak">
+</p>
+<!-- Visitor Counter and Made with Love in one row -->
+<table align="center" width="100%">
+  <tr>
+    <td align="left">
+      <img src="https://komarev.com/ghpvc/?username=Blueprint-Codeworks&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views">
+    </td>
+    <td align="right">
+      <img src="https://img.shields.io/badge/Made%20with-❤️%20by%20Blueprint--Codeworks-ff69b4?style=for-the-badge" alt="Made with love">
+    </td>
+  </tr>
+</table>
+<!-- Footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer Image">
+</p>
