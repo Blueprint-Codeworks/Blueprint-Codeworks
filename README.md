@@ -37,14 +37,5 @@ Si deseas ejecutar el proyecto en tu entorno local, sigue estos pasos:
    ```bash
    git clone https://github.com/Blueprint-Codeworks/Repositorio.git
 
-
-🤝 Contribuir:
-¡Siempre estoy abierto a sugerencias y mejoras! Si tienes alguna idea o mejoras que hacer al proyecto:
-
-Haz un fork del repositorio.
-Realiza los cambios.
-Crea un pull request con tus contribuciones.
-¡Estaré encantado de revisarlo!
-
 📬 Contacto:
 Si tienes alguna consulta o quieres colaborar, puedes contactarme por LinkedIn o enviar un correo a codeblueprintsmail@gmail.com.
